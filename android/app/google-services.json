@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758071054197",
+    "project_id": "gmail-signin-test",
+    "storage_bucket": "gmail-signin-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758071054197:android:90cdeb8e88b5b9ec070d3c",
+        "android_client_info": {
+          "package_name": "com.example.gmail_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758071054197-nm898je8bkg0r1s1bqhdq1b7i2q13u7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsEqKeyiPTCeN4631CDqnPy6DJl53hqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758071054197-nm898je8bkg0r1s1bqhdq1b7i2q13u7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
