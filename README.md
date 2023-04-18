@@ -1,7 +1,6 @@
 # gmail_signin demo
 
-- a Flutter app that uses the MVC (Model-View-Controller) architecture and appropriate Object-Oriented classes and models.
-- allows users to log in using their Google accounts, and implements authentication via Google accounts using Firebase.
+- a Flutter app that allows users to log in using their Google accounts, implements authentication via Google accounts using Firebase.
 - display the current date and time using a PHP script that communicates with a server via REST API.
 - updates the displayed time every 10 seconds, and includes a log out button for users to sign out of the app.
 
